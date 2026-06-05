@@ -16,9 +16,12 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/DOCKER-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TENSORFLOW-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-## Languages:
+![Node.js](https://img.shields.io/badge/NODE.JS-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+## Languages/Package Managers:
 ![Ruby](https://img.shields.io/badge/RUBY-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Go](https://img.shields.io/badge/GO-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![npm](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![RubyGems](https://img.shields.io/badge/RUBYGEMS-%23E9573F.svg?style=for-the-badge&logo=rubygems&logoColor=white)
 ## Security/Monitoring:
 ![Wireshark](https://img.shields.io/badge/WIRESHARK-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
 ![BackTrack](https://img.shields.io/badge/BACKTRACK-%23336699.svg?style=for-the-badge&logo=backtrack&logoColor=white)
