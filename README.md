@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 Currently working on OpenLegion
 - 🌱 I’m currently learning, React and Typescript
-- 📫 How to reach me: edorman@protonamil.com
+- 📫 How to reach me: edorman@protonmail.com
 - ⚡ Fun fact: Huge sports fan, specifically Colorado Avalanche
 
 ## Socials
